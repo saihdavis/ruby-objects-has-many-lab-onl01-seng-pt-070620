@@ -20,7 +20,11 @@ class Post
       nil 
   end
 
+<<<<<<< HEAD
 end
+=======
+  
+>>>>>>> 5ca7420379e8a1c718df7295dffbf009185c7181
   
 
 end
